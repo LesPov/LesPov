@@ -7,7 +7,7 @@
 
 <!-- Sección "Sobre mí" -->
 <p align="center">
-  Soy un desarrollador apasionado por la creación de soluciones web robustas y escalables. Me encanta enfrentar nuevos desafíos y aprender constantemente en el mundo de la tecnología.
+  Desarrollador Full-Stack apasionado por la creación de soluciones web robustas, escalables y centradas en el usuario. Me encanta transformar ideas complejas en aplicaciones funcionales y eficientes.
 </p>
 
 - 🔭 Actualmente estoy trabajando en la **implementación completa de un sistema de autenticación web** (Frontend & Backend) usando Node.js y Angular.
@@ -36,19 +36,47 @@
 ---
 
 <!-- Sección de Proyectos -->
-<h2 align="center">🚀 Mis Proyectos</h2>
+<h2 align="center">🚀 Mis Proyectos Destacados</h2>
+<p align="center"><i>Nota: Algunos de estos repositorios son privados, pero con gusto puedo ofrecer una demostración detallada.</i></p>
 <table bordercolor="#66b2b2" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">Autenticación Segura (Full-Stack)</h3>
+<h3 align="center">AgroRed - Plataforma de Gestión Agrícola</h3>
 <div align="center">
-  <!-- ⚠️ CAMBIA ESTO: Pon el enlace a tu repositorio en el href -->
-  <a href="https://github.com/LesPov/NOMBRE-DEL-PROYECTO" target="_blank">
+  <a href="#" target="_blank">
+    <!-- IMAGEN DE TU PROYECTO AGRORED -->
+    <img src="https://github.com/user-attachments/assets/8c9e4255-9874-47a5-a089-91f525806fed" width="400" alt="AgroRed">
+  </a>
+  <p align="center">
+    Plataforma web full-stack diseñada para optimizar la gestión agrícola. Conecta a productores, permite el monitoreo de cultivos, gestión de inventario y análisis de datos para tomar decisiones informadas y eficientes en el sector.
+  </p>
+  <p align="center">
+    <strong>Tecnologías utilizadas:</strong><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
+  </p>
+  <div align="center">
+    <a href="#" style="pointer-events: none;">
+      <img src="https://img.shields.io/badge/Código-Privado-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Código Privado">
+    </a>
+    <!-- ⚠️ CAMBIA ESTO: Si tienes un demo en vivo, pon el enlace. Si no, puedes borrar esta línea -->
+    <a href="URL_DEL_DEMO_AGRORED" target="_blank">
+      <img src="https://img.shields.io/badge/Demo_en_vivo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo en vivo">
+    </a>
+  </div>
+</div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Sistema de Autenticación Segura</h3>
+<div align="center">
+  <a href="#" target="_blank">
     <!-- ⚠️ CAMBIA ESTO: Sube una captura de tu proyecto y pon el enlace aquí -->
     <img src="https://web-assets.esetstatic.com/wls/2021/05/autenticacion-dos-factores-funcionamiento.png" width="400" alt="Autenticación Segura">
   </a>
   <p align="center">
-    Proyecto completo de autenticación de usuarios con registro, inicio de sesión y protección de rutas. Implementado con un frontend en Angular y un backend en Node.js, utilizando JWT (JSON Web Tokens) para la gestión segura de sesiones.
+    Módulo de autenticación robusto con registro, inicio de sesión y protección de rutas. Implementado con un frontend en Angular y backend en Node.js, utilizando JWT para la gestión segura de sesiones de usuario.
   </p>
   <p align="center">
     <strong>Tecnologías utilizadas:</strong><br>
@@ -58,30 +86,14 @@
     <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="30" height="30"/>
   </p>
   <div align="center">
-    <!-- ⚠️ CAMBIA ESTO: Pon el enlace a tu repositorio -->
-    <a href="https://github.com/LesPov/NOMBRE-DEL-PROYECTO" target="_blank">
-      <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código">
+    <a href="#" style="pointer-events: none;">
+      <img src="https://img.shields.io/badge/Código-Privado-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Código Privado">
     </a>
     <!-- ⚠️ CAMBIA ESTO: Si tienes un demo en vivo, pon el enlace. Si no, puedes borrar esta línea -->
-    <a href="URL_DEL_DEMO" target="_blank">
+    <a href="URL_DEL_DEMO_AUTH" target="_blank">
       <img src="https://img.shields.io/badge/Demo_en_vivo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo en vivo">
     </a>
   </div>
-</div>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">Próximo Proyecto</h3>
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://via.placeholder.com/400x225.png?text=Próximamente..." width="400" alt="Próximo Proyecto">
-  </a>
-  <p align="center">
-    Aquí puedes describir tu siguiente gran idea o el proyecto en el que estás a punto de empezar a trabajar.
-  </p>
-  <p align="center">
-    <strong>Tecnologías planeadas:</strong><br>
-    <!-- Pon aquí los iconos de las tecnologías que usarás -->
-  </p>
 </div>
 </td>
 </tr>
