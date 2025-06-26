@@ -45,7 +45,7 @@
 <div align="center">
   <a href="#" target="_blank">
     <!-- IMAGEN DE TU PROYECTO AGRORED -->
-    <img src="https://github.com/user-attachments/assets/8c9e4255-9874-47a5-a089-91f525806fed" width="400" alt="AgroRed">
+    <img src="https://github.com/user-attachments/assets/aa556bfa-aab0-4f1e-854f-384552cfb291" width="400" alt="AgroRed">
   </a>
   <p align="center">
     Plataforma web full-stack diseñada para optimizar la gestión agrícola. Conecta a productores, permite el monitoreo de cultivos, gestión de inventario y análisis de datos para tomar decisiones informadas y eficientes en el sector.
