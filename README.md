@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 Actualmente estoy trabajando en la **implementación completa de un sistema de autenticación web** (Frontend & Backend) usando Node.js y Angular.
-- 🌱 Estoy cursando en la universidad: `Diseño de Software`, `Administración de Bases de Datos`, `Inglés B1` y `Competencias Comunicativas`.
+- 🌱 Estoy cursando en la universidad: `Diseño de Software`, `Administración de Bases de Datos`, `Inglés B1` y `Competencias Comunicativas` = Ingenieria de Sistemas .
 - 👯 Busco colaborar en proyectos desafiantes que involucren desarrollo web y programación en general.
 - 💬 Pregúntame sobre **proyectos de autenticación**, desarrollo **Frontend**, **Backend**, o cualquier consulta de programación.
 - 📫 Cómo contactarme: **+57 302-653-6186** | **leonardopoved@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/leonardo-poveda-b8310827b/)**
